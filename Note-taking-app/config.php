@@ -3,7 +3,7 @@
 return [
         'host' => 'localhost',
         'port' => 3306,
-        'dbname' => 'myapp',
+        'dbname' => 'lists',
         'charset' => 'utf8mb4'
 ];
 ?>
